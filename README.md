@@ -1,7 +1,7 @@
 # everymind-backend
 Backend Everymind feito com NestJS  
 
-Parte back-end do desafio Best Minds 2024.  
+Parte back-end do desafio Best Minds 2024 em que deveríamos criar uma tabela "Produtos" no banco de dados.   
 Fiz esse projeto em NestJS por que gostaria de aprender uma tecnologia nova,  
 e com esse projeto sinto que já tenho uma base em NestJS.  
 
